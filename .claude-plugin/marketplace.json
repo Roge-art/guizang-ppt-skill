@@ -1,0 +1,20 @@
+{
+  "name": "guizang-ppt-skill",
+  "description": "Horizontal swipe web PPT decks (single HTML) in two styles: e-magazine x e-ink, and Swiss International Style",
+  "owner": {
+    "name": "Roge-art"
+  },
+  "plugins": [
+    {
+      "name": "guizang-ppt-skill",
+      "description": "生成横向翻页网页 PPT（单 HTML 文件），含 WebGL 背景、章节幕封、数据大字报、图片网格等模板。两种风格：电子杂志×电子墨水、瑞士国际主义。",
+      "version": "1.0.0",
+      "source": "./",
+      "author": {
+        "name": "guizang (original) / packaged by Roge-art"
+      },
+      "category": "design",
+      "strict": false
+    }
+  ]
+}
